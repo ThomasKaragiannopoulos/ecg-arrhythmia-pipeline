@@ -1,6 +1,6 @@
-# Arrhythmia Diagnosis
+# ECG Arrhythmia Pipeline
 
-ECG arrhythmia classification data pipeline using the [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/) (48 subjects, PhysioNet).
+Data preprocessing pipeline for ECG arrhythmia classification using the [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/) (48 subjects, PhysioNet).
 
 Built as part of my BSc Computer Science degree at Brunel University.
 
